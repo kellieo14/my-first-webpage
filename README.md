@@ -23,5 +23,5 @@ _{This is an intro webpage about Chris and his favorite things, including his fa
 _{This is a fairly simple project but if you do get stuck you can contact Kellie or Niem at html@support.com}_
 
 ### License
-
+stuff
 Copyright (c) 2016 **_{Kellie O, Niem N}

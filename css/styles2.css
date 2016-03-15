@@ -24,6 +24,7 @@ em {
 }
 
 ul img {
+  float: left;
   max-width: 100%;
   padding: 50px auto;
   margin: 20px auto;

@@ -1,0 +1,33 @@
+header {
+  color: green;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+
+h1 {
+  color: magenta;
+  font-family: fantasy;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+em {
+  color: red;
+}
+
+ul img {
+  max-width: 100%;
+  padding: 50px auto;
+  margin: 20px auto;
+}
+
+li {
+  font-family: fantasy;
+  font-size: 1.25em;
+  list-style: none;
+  color: orange;
+}
